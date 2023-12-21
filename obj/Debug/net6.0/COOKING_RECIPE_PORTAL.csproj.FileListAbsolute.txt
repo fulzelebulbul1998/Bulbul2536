@@ -1,0 +1,468 @@
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.exe
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.AssemblyReference.cache
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfoInputs.cache
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfo.cs
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.COOKING_RECIPE_PORTAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.build.COOKING_RECIPE_PORTAL.props
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COOKING_RECIPE_PORTAL.props
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COOKING_RECIPE_PORTAL.props
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\scopedcss\bundle\COOKING_RECIPE_PORTAL.styles.css
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CopyComplete
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\refint\COOKING_RECIPE_PORTAL.dll
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.deps.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.runtimeconfig.json
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.genruntimeconfig.cache
+C:\Users\PBHANUDA\source\repos\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\ref\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.exe
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.AssemblyReference.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfoInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.COOKING_RECIPE_PORTAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.build.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\scopedcss\bundle\COOKING_RECIPE_PORTAL.styles.css
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CopyComplete
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\refint\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.deps.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.runtimeconfig.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.genruntimeconfig.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Receipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\ref\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.exe
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.deps.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.runtimeconfig.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.AssemblyReference.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfoInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.COOKING_RECIPE_PORTAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.build.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\scopedcss\bundle\COOKING_RECIPE_PORTAL.styles.css
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CopyComplete
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\refint\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.genruntimeconfig.cache
+C:\Users\mejagada\OneDrive - Capgemini\Online Cooking Recipe Portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\ref\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.exe
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.deps.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.runtimeconfig.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.AssemblyReference.cache
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfoInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.COOKING_RECIPE_PORTAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.build.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COOKING_RECIPE_PORTAL.props
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\scopedcss\bundle\COOKING_RECIPE_PORTAL.styles.css
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CopyComplete
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\refint\COOKING_RECIPE_PORTAL.dll
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.genruntimeconfig.cache
+C:\Users\mejagada\OneDrive - Capgemini\recipe portal\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\ref\COOKING_RECIPE_PORTAL.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\appsettings.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.exe
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.deps.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.runtimeconfig.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.AssemblyReference.cache
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfoInputs.cache
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.AssemblyInfo.cs
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.COOKING_RECIPE_PORTAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.build.COOKING_RECIPE_PORTAL.props
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COOKING_RECIPE_PORTAL.props
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COOKING_RECIPE_PORTAL.props
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\scopedcss\bundle\COOKING_RECIPE_PORTAL.styles.css
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.csproj.CopyComplete
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\refint\COOKING_RECIPE_PORTAL.dll
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.pdb
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\COOKING_RECIPE_PORTAL.genruntimeconfig.cache
+C:\Users\BRAJESHF\Downloads\COOKING_RECIPE_PORTAL 2\COOKING_RECIPE_PORTAL\COOKING_RECIPE_PORTAL\obj\Debug\net6.0\ref\COOKING_RECIPE_PORTAL.dll
